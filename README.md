@@ -3,6 +3,7 @@
 ## Back-end
 
 - [Exercícios de programação](docs/code-challenges.md)
+- [Elixir](docs/elixir.md)
 - [Ruby/Rails](docs/ruby-on-rails.md)
 
 ## Devops
