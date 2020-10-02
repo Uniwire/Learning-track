@@ -19,4 +19,5 @@
 ## Free resources
 
 - [Free APIs](docs/free-apis.md)
-- [General resources for devs](docs/free-resources/general.md)
+- [Recursos gerais para devs](docs/free-resources/general.md)
+- [Recursos para design](docs/free-resources/design.md)
